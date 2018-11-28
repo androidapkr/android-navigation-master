@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigation Demo</string>
+    <string name="fragment_2">Fragment 2</string>
+    <string name="goto_fragment_3">Goto Fragment 3</string>
+    <string name="fragment_1">Fragment 1</string>
+    <string name="start">Start</string>
+    <string name="fragment_3">Fragment 3</string>
+    <string name="back_to_fragment_2">Back to Fragment 2</string>
+
+</resources>
